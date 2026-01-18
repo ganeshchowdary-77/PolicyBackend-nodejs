@@ -4,7 +4,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Node](https://img.shields.io/badge/Node.js-v18%2B-green)
-![Database](https://img.shields.io/badge/MongoDB-Atlas-forestgreen)
+![Database](https://img.shields.io/badge/MongoDB-Compass-forestgreen)
 
 ## 📖 Overview
 
